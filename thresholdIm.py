@@ -6,6 +6,7 @@ Created on Wed Nov  3 00:04:27 2021
 Applies a threshold to an image
 
 @author: ruwwad
+@edited: damilola
 """
 
 def thresholdIm(Im, t):

@@ -13,6 +13,7 @@ shown in the image, etc.
 NOTE: I did not test running inside subplots (which is the reason for the
                                               "newFigure" parameter)
 @author: ruwwad
+@edited: damilola
 """
 
 def imshow(Im, title, newFigure):

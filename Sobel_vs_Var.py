@@ -6,6 +6,7 @@ Created on Wed Dec 15 03:10:17 2021
 This function compares the use of a variance filter to a Sobel filter
 
 @author: ruwwad
+@edited: damilola
 """
 
 import numpy as np

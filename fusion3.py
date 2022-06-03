@@ -12,7 +12,8 @@ it to work according to reference [2].
 OpenCV: Image Pyramids:
     https://docs.opencv.org/4.x/dc/dff/tutorial_py_pyramids.html
 
-@author: openCV, edited by ruwwad
+@author: openCV
+@edited: ruwwad, damilola
 """
 
 # References:

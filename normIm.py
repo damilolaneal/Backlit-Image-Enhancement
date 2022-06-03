@@ -6,6 +6,7 @@ Created on Tue Nov  2 22:07:38 2021
 Normalizes the image "Im" from "L" to "H"
 
 @author: ruwwad
+@edited: damilola
 """
 
 def normIm(Im, L, H):

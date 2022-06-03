@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
 @author: ruwwad
+@edited: damilola
 '''
 
 #This function is capable of both downsampling and upsampling.

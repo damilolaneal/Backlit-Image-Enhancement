@@ -6,6 +6,7 @@ Created on Fri Oct 29 01:15:55 2021
 Pads the image "Im" with zeros to retain its dimensions when filtered using "f"
 
 @author: ruwwad
+@edited: damilola
 """
 
 def zeroPadIm(Im, f):

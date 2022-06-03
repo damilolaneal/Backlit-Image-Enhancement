@@ -9,6 +9,7 @@ the same or similar. I tried to extract some of the images from the reference
 but they are too small to yield valid results.
 
 @author: ruwwad + image fusion by OpenCV (which is also edited by ruwwad).
+@edited: damilola
 """
 
 # References:

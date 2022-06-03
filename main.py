@@ -7,6 +7,7 @@ This function should show all the obtained results as images. The quantitative
 results will be obtained using MATLAB's built-in functions.
 
 @author: ruwwad
+@edited: damilola
 """
 
 

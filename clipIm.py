@@ -4,6 +4,7 @@
 Created on Fri Dec  3 02:16:47 2021
 
 @author: ruwwad
+@edited: damilola
 """
 
 def clipIm(Im, minimum, maximum):

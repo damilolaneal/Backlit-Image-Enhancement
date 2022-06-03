@@ -8,6 +8,7 @@ It replaces the histogram equalization method used in the above paper with
 PCGF_Sharp.py. This should decrease the artifacts found in the image
 
 @author: ruwwad
+@edited: damilola
 """
 
 #References:

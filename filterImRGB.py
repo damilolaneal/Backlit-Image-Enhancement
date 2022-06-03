@@ -4,6 +4,7 @@
 Created on Tue Oct 26 23:01:36 2021
 
 @author: ruwwad
+@edited: damilola
 """
 # from PIL import Image
 # from matplotlib import pyplot as plt

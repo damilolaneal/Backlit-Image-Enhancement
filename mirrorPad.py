@@ -8,6 +8,7 @@ Pads the image "Im" to retain its dimensions when filtered using "f".
 The padding method is "mirror".
 
 @author: ruwwad
+@edited: damilola
 """
 
 def mirrorPadIm(Im, f):

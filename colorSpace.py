@@ -4,6 +4,7 @@
 Created on Thu Nov 18 16:44:42 2021
 
 @author: ruwwad
+@edited: damilola
 """
 
 def rgb2hsi(r, g, b, n):

@@ -4,6 +4,7 @@
 Created on Tue Nov  2 22:17:54 2021
 
 @author: ruwwad
+@edited: damilola
 """
 
 #Finds the equalized histogram of greyscale images

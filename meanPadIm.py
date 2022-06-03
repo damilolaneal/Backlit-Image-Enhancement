@@ -6,6 +6,7 @@ Created on Wed Dec  1 16:11:45 2021
 Pads the image with mean value to retain its dimensions when filtered using "f".
 
 @author: ruwwad
+@edited: damilola
 """
 
 def meanPadIm(Im, f):

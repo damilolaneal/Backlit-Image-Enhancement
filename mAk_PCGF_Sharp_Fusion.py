@@ -11,7 +11,8 @@ Follows the method found in paper [1], but it was modified as follows:
 2- Moreover, the naive blending is replaced with image fusion from [2], which
 uses gaussain and laplacian pyramids to fuse the images.
 
-@author: ruwwed
+@author: ruwwad
+@edited: damilola
 """
 
 #References:

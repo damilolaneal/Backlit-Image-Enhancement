@@ -4,6 +4,7 @@
 Created on Fri Dec 10 20:37:17 2021
 
 @author: ruwwad
+@edited: damilola
 """
 
 # This function implement the image fusion found in reference [2].

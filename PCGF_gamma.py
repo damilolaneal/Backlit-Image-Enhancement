@@ -6,6 +6,7 @@ Created on Sun Nov 28 22:56:04 2021
 This function applies PCGF to the image according to the reference [1]
 
 @author: ruwwad
+@edited: damilola
 """
 
 # References:

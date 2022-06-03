@@ -6,6 +6,7 @@ Created on Fri Oct 29 00:37:39 2021
 Find the variance of the image (returns a signle value)
 
 @author: ruwwad
+@edited: damilola
 """
 
 def varIm(Im):

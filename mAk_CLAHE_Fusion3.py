@@ -21,6 +21,7 @@ NOTE: Using modification (2) and (3) actually yields worse results, but
       Though, modification (2) does subjectively improve the results of fusion
 
 @author: ruwwad
+@edited: damilola
 """
 
 

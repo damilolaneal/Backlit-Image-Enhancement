@@ -4,6 +4,7 @@
 Created on Sun Nov 28 23:33:28 2021
 
 @author: ruwwad
+@edited: damilola
 """
 
 '''Sharpens the image using an unsharp mask according to reference [1]'''

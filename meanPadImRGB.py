@@ -6,6 +6,7 @@ Created on Fri Dec 10 01:06:04 2021
 Pads RGB image with mean value to retain its dimensions when filtered using "f"
 
 @author: ruwwad
+@edited: damilola
 """
 
 def meanPadImRGB(Im, f):

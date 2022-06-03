@@ -4,6 +4,7 @@
 Created on Tue Nov  2 22:09:14 2021
 
 @author: ruwwad
+@edited: damilola
 """
 
 def hist(Im):

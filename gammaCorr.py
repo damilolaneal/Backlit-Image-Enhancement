@@ -4,6 +4,7 @@
 Created on Tue Nov  2 23:18:30 2021
 
 @author: ruwwad
+@edited: damilola
 """
 
 # Applies gamma correction to the image

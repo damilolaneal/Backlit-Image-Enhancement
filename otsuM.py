@@ -8,6 +8,7 @@ The algorithm is based on the equations found on the wiki
 Source: https://en.wikipedia.org/wiki/Otsu%27s_method
     
 @author: ruwwad
+@edited: damilola
 """
 
 def otsuM(Im):

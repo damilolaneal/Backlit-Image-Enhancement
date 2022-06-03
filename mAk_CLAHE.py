@@ -16,6 +16,7 @@ NOTE: Using image fusion actually yields worse results, but fortunately, CLAHE
       improves the results of [1] in terms of PIQE [4]
 
 @author: ruwwad
+@edited: damilola
 """
 
 #References:
